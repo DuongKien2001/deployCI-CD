@@ -32,7 +32,7 @@ jobs:
           context: .
           file: ./Dockerfile
           push: true
-          tags: kien/deplyCI-CD
+          tags: kien20012k1/deplyCI-CD
 
 
   pull-and-up:
